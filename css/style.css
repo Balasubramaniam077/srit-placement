@@ -1,0 +1,49 @@
+body { 
+    font-family: Arial, sans-serif; 
+    text-align: center; 
+    margin: 0; 
+    padding: 0; 
+    background-color: #f4f4f4; 
+}
+.card { 
+    width: 350px; 
+    margin: 100px auto; 
+    padding: 20px; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    background: #fff; 
+}
+.logo { 
+    width: 80px; 
+    display: block; 
+    margin: 0 auto 10px; 
+}
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+button {
+    padding: 10px 20px;
+    border: none;
+    background: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+button:hover {
+    background: #0056b3;
+}
+#timer {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+iframe { 
+    width: 100vw; 
+    height: 100vh; 
+    border: none; 
+}

@@ -1,0 +1,22 @@
+I need a seperate html page for 
+
+Login
+pdf shwocase 
+exit 
+
+Login page:
+
+I need center card,In the card contain center logo, in the below the logo, i need a roll number input 
+if the person enter the roll number enter and click the sumbit button. 
+js script will validated the last two number has even or odd 
+
+
+Pdf showcase page:
+
+In the pdf showcase page contain the pdf, taken the pdf from seperate folder for odd or even, example the last two number is even
+html need to showcase the even folder pdf to user, if the user enter into an page, timer will start from 0 mins and once the time reach the 60 mins it will move to exit page 
+In the timer apper in heading of the webpage 
+
+Exit:
+
+In exit page, showcase thank for attending the test 
